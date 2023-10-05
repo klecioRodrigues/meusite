@@ -33,6 +33,7 @@ body {
 h1,
 h2 {
   font-family: 'Dancing Script', cursive;
+  color: #000000;
 }
 
 .heading_container {
